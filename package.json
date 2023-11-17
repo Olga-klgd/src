@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.come/Olga-klgd/issue"
   },
-  "homepage": "https://github.come/Olga-klgd/src#readme"
+  "homepage": "https://github.come/Olga-klgd/src#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
